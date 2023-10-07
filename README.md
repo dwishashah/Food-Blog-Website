@@ -1,4 +1,4 @@
-# Gormet Grind
+# Food Blog Website
 A food blog website created using MongoDB, NodeJS and ExpressJS.
 <br>
 <br>
